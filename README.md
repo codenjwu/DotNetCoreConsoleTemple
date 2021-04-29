@@ -3,4 +3,4 @@
 
 ### add startup file 
 
-### add host service and scoped service demo
+### add hosted service and scoped service demo
